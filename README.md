@@ -39,10 +39,10 @@ Then navigate with your browser to http://localhost:3000 and you will view the a
 
 File Structure 
 
-. 
-├── src 
-│ ├── Home.js # Main component for the application 
-│ ├── App.js # Entry point of the application 
-│ ├── index.js # Renders the React application to DOM 
-│ └── styles.css # Styles for the application 
-└── package.json # Dependency and script
+
+  src 
+  Home.js # Main component for the application 
+  App.js # Entry point of the application 
+  index.js # Renders the React application to DOM 
+  styles.css # Styles for the application 
+  package.json # Dependency and script
