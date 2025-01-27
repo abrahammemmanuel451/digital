@@ -50,7 +50,7 @@ const Home = () => {
     <div>
       {/* Header */}
       <header className="welcome-section">
-        <h1>Group 8 ICT 235 Digital Art Gallery</h1>
+        <h1>Digital Art Gallery</h1>
         <p>Discover amazing photographs curated for you!</p>
       </header>
 
